@@ -1,9 +1,11 @@
-   ________
-  /  /     \
-  |  |     |    <- cheese wheel
-  \__\_____/
+   __________
+  /  / O      )
+  |()     O    |    <- cheese wheel w/ added HOLES
+  \__\__O___()/
 
    
 
                 <- remnants of second cheese wheel after I ated it
   ../\_'.,,
+
+                <- remenants after the TREE appeared
