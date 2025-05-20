@@ -2,3 +2,8 @@
   /  /     \
   |  |     |    <- cheese wheel
   \__\_____/
+
+   ________
+  /  /     \
+  |  |     |    <- second cheese wheel
+  \__\_____/
